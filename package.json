@@ -1,6 +1,6 @@
 {
   "name": "rites",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Musical scales and tunings library",
   "main": "src/index.js",
   "scripts": {
