@@ -1,6 +1,19 @@
 # Rites - Musical scales and tunings library
 
+## Installation
+
+```
+npm install rites
+```
+
 ## Example
+
+```js
+var scale = new rites.scale.Major();
+// The third degree of a major scale with root frequency at low C (65.406Hz),
+// in the second octave i.e. bass E.
+scale.getFrequency(2, 65.406, 1);
+```
 
 ## API Documentation
 
