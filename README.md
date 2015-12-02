@@ -47,10 +47,6 @@ Major scale.
 
 `rites.scale.Scale`
 
-*Parameters*:
-
-None
-
 #### Major
 
 ```js
@@ -58,10 +54,6 @@ new rites.scale.Minor();
 ```
 
 Representation of a generic musical tuning.  Can be subclassed to produce specific tunings.
-
-*Parameters*:
-
-None
 
 ### Tunings
 
